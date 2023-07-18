@@ -1,0 +1,13 @@
+data/raw/
+data/processed/
+data/intermediate/
+output/
+requirements.txt
+.vscode/
+.idea/
+*.pyc
+.tmp/
+*.log
+.DS_Store
+Thumbs.db
+/secrets/
