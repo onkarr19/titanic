@@ -11,3 +11,4 @@ requirements.txt
 .DS_Store
 Thumbs.db
 /secrets/
+.ipynb_checkpoints
